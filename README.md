@@ -1,5 +1,9 @@
 # Module 1 Challenge
 
+## URL
+
+https://alexander1262.github.io/Module-1-Challenge-Resubmit/
+
 ## Description
 
 In order to fulfill the requirements of this project I created 2 media queries with 1 set at 992px and the other at 768px
